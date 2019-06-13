@@ -1,3 +1,3 @@
-Ubuchou is for ubuntu
+Ubunchu is for Ubuntu
 
 Greek version
